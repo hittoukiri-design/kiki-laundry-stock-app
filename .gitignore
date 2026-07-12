@@ -1,0 +1,23 @@
+# Android/Kotlin Gradle Project ignore rules
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/nav/js.col
+/.idea/codeStyles
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+venv/
+*.apk
+.project
+.classpath
+.settings/
+bin/
+app/google-services.json

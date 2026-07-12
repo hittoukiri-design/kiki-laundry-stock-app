@@ -1,0 +1,9 @@
+node_modules
+sessions
+.env
+.env.*
+npm-debug.log
+bot.log
+all_items.json
+all_transactions.json
+*.db

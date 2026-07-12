@@ -1,0 +1,108 @@
+{
+  "items": [
+    "SODA",
+    "CITRUN",
+    "SAPU",
+    "SUNLIGHT",
+    "SIKAT MESIN",
+    "KUAS",
+    "KRESEK SAMPAH",
+    "SIKAT KAWAT",
+    "SAPU LIDI",
+    "SEMPROTAN",
+    "SAPU LANTAI",
+    "SUPER PEL",
+    "LAP",
+    "KANEBO",
+    "PULPEN",
+    "BUKU",
+    "STIPO",
+    "PLASTIK JUALAN",
+    "KARET GAS",
+    "KURSI KECIL",
+    "CLINTEX",
+    "KARET",
+    "EMBER",
+    "TONG SAMPAH",
+    "GUNTING",
+    "LAMPU",
+    "SIKAT WC",
+    "SODA API",
+    "SABUN LANTAI",
+    "KESET LANTAI"
+  ],
+  "outlets": [
+    {
+      "name": "JCL SIDAKARYA",
+      "region": "SELATAN"
+    },
+    {
+      "name": "BALI WASH GALANG",
+      "region": "SELATAN"
+    },
+    {
+      "name": "JCL BYPASS",
+      "region": "SELATAN"
+    },
+    {
+      "name": "JCL SESETAN",
+      "region": "SELATAN"
+    },
+    {
+      "name": "GRIYA ANYAR",
+      "region": "SELATAN"
+    },
+    {
+      "name": "KLIN WASH",
+      "region": "SELATAN"
+    },
+    {
+      "name": "LAUNDRY DEWE",
+      "region": "SELATAN"
+    },
+    {
+      "name": "DIY",
+      "region": "SELATAN"
+    },
+    {
+      "name": "JCL PEMOGAN",
+      "region": "SELATAN"
+    },
+    {
+      "name": "JCL AYANI",
+      "region": "UTARA"
+    },
+    {
+      "name": "CUCI DEWE",
+      "region": "UTARA"
+    },
+    {
+      "name": "LONDRI DEWE ANTASURA",
+      "region": "UTARA"
+    },
+    {
+      "name": "GEDE LONDRI",
+      "region": "UTARA"
+    },
+    {
+      "name": "JCL NUSA KAMBANGAN",
+      "region": "BARAT"
+    },
+    {
+      "name": "MERPATI",
+      "region": "BARAT"
+    },
+    {
+      "name": "BALI WASH",
+      "region": "BARAT"
+    },
+    {
+      "name": "RINJANI WASH",
+      "region": "BARAT"
+    },
+    {
+      "name": "MONANG MANING",
+      "region": "BARAT"
+    }
+  ]
+}
